@@ -1,2 +1,3 @@
 # Metro_Map_BFS_Visualization
 A GUI-based project using python and tkinter to visualize the Breadth-First-Search (BFS) algorithm . it maps the Alexanderia metro network and calculates the shortest path between stations , demonstrating a practical application of graph search algorithm
+BFS is a kind of uninformed searchthat explores a map or tree layer by layer. it uses first in first out method (FIFO) queue to manage the frontier . when a node is dequeued its added to visited set to prevent redundant processing and infinite loops . the search continue until the target node is found or the queue is empty
